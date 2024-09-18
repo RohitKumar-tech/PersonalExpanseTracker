@@ -3,6 +3,24 @@
 ## Project Overview
 The **Personal Expense Tracker** is a desktop application designed to help users manage and track their income and expenses efficiently. This project uses **Java** (Swing and Applet) for the frontend and **SQL**, **PHP**, and **XAMPP** for the backend, providing a robust system for storing and retrieving financial data.
 
+## Screenshots
+
+
+![Website Screenshot](Images/1.png)
+
+
+![Website Screenshot](Images/2.png)
+
+
+![Website Screenshot](Images/3.png)
+
+
+![Website Screenshot](Images/4.png)
+
+
+![Website Screenshot](Images/5.png)
+
+
 ### Key Features
 - **User Registration and Login:** Secure authentication using a PHP and SQL backend.
 - **Expense Tracking:** Users can add, edit, and delete expenses.
