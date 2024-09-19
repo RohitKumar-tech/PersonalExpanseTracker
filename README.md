@@ -67,10 +67,10 @@ The **Personal Expense Tracker** is a desktop application designed to help users
 4. View your financial summary and graphical reports.
 
 ## Contributors
-- **Rohit Kumar**
+- **Rohit Kumar** 
 - **Ayush Baoker**
-- **Govind**
-- **Abhigyan**
+- **Abhigyan Shukla**
+- **Govind Jee**
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
